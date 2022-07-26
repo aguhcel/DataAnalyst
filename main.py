@@ -14,6 +14,5 @@ df = pd.read_csv('data.csv')
 df.head(5)
 
 
-
 # Mostramos las ultimas 5 filas
 df.tail(5)
